@@ -1,4 +1,4 @@
-### Hi there, I'm Faiz Akram [faizakram][website] 👋
+### Hi there, I'm Faiz Akram [faizakram](https://faizakram.com) 👋
 
 
 [![Website](https://img.shields.io/website?label=faizakram.com&style=for-the-badge&url=https%3A%2F%2Ffaizakram.com)](https://faizakram.com)

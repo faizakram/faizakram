@@ -2,18 +2,14 @@
 
 
 [![Website](https://img.shields.io/website?label=faizakram.com&style=for-the-badge&url=https%3A%2F%2Ffaizakram.com)](https://faizakram.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/faizakram?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=FaizKrm)
 
-Here are some ideas to get you started:
+## I'm a Technical Architect and Teacher!
+
 
 - 🔭 I’m currently working on MSA.
 - 🌱 I’m currently learning Angular 10.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
 
 

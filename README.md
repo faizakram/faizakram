@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Angular 10.
 - 👯 I’m looking to collaborate on ...
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- Please feel free to contact on skype(* faiz.akram37 *). I will be happy to help you.
+- Please feel free to contact on skype(faiz.akram37). I will be happy to help you.
 
 
 

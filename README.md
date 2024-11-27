@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=faizakram.com&style=for-the-badge&url=https%3A%2F%2Ffaizakram.com)](https://faizakram.com)
 
-## I bring over 10 years of IT experience working as a Technical Architect. I possess experience of working in the multicultural environment and proven experience of diversified IT deliveries across the verticals like B2B, B2C, and Service domain.
+## I bring over 12 years of IT experience working as a Technical Architect. I possess experience of working in the multicultural environment and proven experience of diversified IT deliveries across the verticals like B2B, B2C, and Service domain.
 
 
 - 🔭 I’m currently working on MSA.

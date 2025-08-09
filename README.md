@@ -7,7 +7,6 @@
 
 
 - 🔭 I’m currently working on MSA.
-- 🌱 I’m currently learning Angular 10.
 - 👯 I’m looking to collaborate on ...
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
